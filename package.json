@@ -1,7 +1,5 @@
-{
-	"author" : "Aman",
-	"name": "fcc-learn-npm-package-json",
-	
+{	
+	"name": "fcc-learn-npm-package-json",	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author" : "Aman",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/amantes30/boilerplate-npm.git"
