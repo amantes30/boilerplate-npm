@@ -8,7 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author" : "Aman",
+	"author": "Aman",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/amantes30/boilerplate-npm.git"
